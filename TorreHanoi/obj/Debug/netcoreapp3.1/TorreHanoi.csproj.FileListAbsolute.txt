@@ -1,0 +1,13 @@
+/home/paulo/AEDs/TorreHanoi/bin/Debug/netcoreapp3.1/TorreHanoi
+/home/paulo/AEDs/TorreHanoi/bin/Debug/netcoreapp3.1/TorreHanoi.deps.json
+/home/paulo/AEDs/TorreHanoi/bin/Debug/netcoreapp3.1/TorreHanoi.runtimeconfig.json
+/home/paulo/AEDs/TorreHanoi/bin/Debug/netcoreapp3.1/TorreHanoi.runtimeconfig.dev.json
+/home/paulo/AEDs/TorreHanoi/bin/Debug/netcoreapp3.1/TorreHanoi.dll
+/home/paulo/AEDs/TorreHanoi/bin/Debug/netcoreapp3.1/TorreHanoi.pdb
+/home/paulo/AEDs/TorreHanoi/obj/Debug/netcoreapp3.1/TorreHanoi.csprojAssemblyReference.cache
+/home/paulo/AEDs/TorreHanoi/obj/Debug/netcoreapp3.1/TorreHanoi.AssemblyInfoInputs.cache
+/home/paulo/AEDs/TorreHanoi/obj/Debug/netcoreapp3.1/TorreHanoi.AssemblyInfo.cs
+/home/paulo/AEDs/TorreHanoi/obj/Debug/netcoreapp3.1/TorreHanoi.csproj.CoreCompileInputs.cache
+/home/paulo/AEDs/TorreHanoi/obj/Debug/netcoreapp3.1/TorreHanoi.dll
+/home/paulo/AEDs/TorreHanoi/obj/Debug/netcoreapp3.1/TorreHanoi.pdb
+/home/paulo/AEDs/TorreHanoi/obj/Debug/netcoreapp3.1/TorreHanoi.genruntimeconfig.cache
